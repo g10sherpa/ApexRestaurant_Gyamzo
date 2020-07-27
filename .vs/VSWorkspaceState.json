@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ApexRestaurant.Mvc",
+    "\\ApexRestaurant.Mvc\\Views",
+    "\\ApexRestaurant.Mvc\\Views\\Shared",
+    "\\ApexRestaurant.Mvc\\wwwroot",
+    "\\ApexRestaurant.Mvc\\wwwroot\\js",
+    "\\ApexRestaurant.Mvc\\wwwroot\\lib",
+    "\\ApexRestaurant.Mvc\\wwwroot\\lib\\bootstrap",
+    "\\ApexRestaurant.Mvc\\wwwroot\\lib\\bootstrap\\dist",
+    "\\ApexRestaurant.Mvc\\wwwroot\\lib\\bootstrap\\dist\\css"
+  ],
+  "SelectedNode": "\\ApexRestaurant.Mvc\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
